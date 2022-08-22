@@ -20,11 +20,11 @@
 | --- | --- | -------- | -------- |
 | 1주차 | 김다애 |의존성 주입 | https://url.kr/mud2va | 
 | 1주차 | 김수민 | | |
-| 1주차 | 김지민| | |
+| 1주차 | 김지민| Annotation | https://www.notion.so/Annotation-feat-controller-42f52c7a06344b90b76982b4a4b62bef |
 | 1주차 | 김종준 | 영속성 | https://writeblabla.tistory.com/75 |
 | 1주차 | 이서현 | | |
 | 2주차 | 김다애 | get,set 메소드| https://url.kr/canor4 | 
 | 2주차 | 김수민 | | |
-| 2주차 | 김지민| | |
+| 2주차 | 김지민| Stream | https://www.notion.so/Stream-5670c25329e84b029590087afeea879e |
 | 2주차 | 김종준 | JPA 프록시와 LazyLoading | https://writeblabla.tistory.com/76 |
 | 2주차 | 이서현 | | |
