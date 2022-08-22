@@ -18,12 +18,12 @@
 ## springstudy-seed-note 발표
 | 주차 | 이름 | 발표주제| 공유 Link |
 | --- | --- | -------- | -------- |
-| 1주차 | 김다애 |의존성 주입 | https://perfect-quart-326.notion.site/08-04-08-13-Dependency-Injection-DI-2e21d047a211465c8a186d7d36ba33a4 | 
+| 1주차 | 김다애 |의존성 주입 | https://url.kr/mud2va | 
 | 1주차 | 김수민 | | |
 | 1주차 | 김지민| | |
 | 1주차 | 김종준 | 영속성 | https://writeblabla.tistory.com/75 |
 | 1주차 | 이서현 | | |
-| 2주차 | 김다애 | get,set 메소드| https://perfect-quart-326.notion.site/08-14-08-20-1-05368c5b31ab45b6b7926ed43f1f6b3b | 
+| 2주차 | 김다애 | get,set 메소드| https://url.kr/canor4 | 
 | 2주차 | 김수민 | | |
 | 2주차 | 김지민| | |
 | 2주차 | 김종준 | JPA 프록시와 LazyLoading | https://writeblabla.tistory.com/76 |
