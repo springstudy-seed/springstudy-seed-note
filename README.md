@@ -32,4 +32,4 @@ https://url.kr/neqlb4
 | 2주차 | 김수민 | | |
 | 2주차 | 김지민| Stream | https://url.kr/dnlf34 |
 | 2주차 | 김종준 | JPA 프록시와 LazyLoading | https://writeblabla.tistory.com/76 |
-| 2주차 | 이서현 | | |
+| 2주차 | 이서현 | JPA Delete 쿼리 성능 개편 | https://url.kr/5h2iwq |
