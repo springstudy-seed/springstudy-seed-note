@@ -14,6 +14,10 @@
 1. 주차별로 발표할 주제에 관한 내용을 블로그 및 노션에 기록한다.
 2. 기록에 url을 발표 **2일전까지** README.md 파일을 수정하여 추가한다.
 3. `[이름] n주차 발표 업로드` 형식으로 커밋을 한다.
+4. 스터디관련 이슈 및 진행상황공유는 Zenhub를 사용한다.
+
+## seed zenhub 사용 규칙:seedling:
+https://url.kr/neqlb4
 
 ## springstudy-seed-note 발표
 | 주차 | 이름 | 발표주제| 공유 Link |
