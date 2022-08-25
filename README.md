@@ -35,6 +35,6 @@ https://url.kr/neqlb4
 | 2주차 | 이서현 | JPA Delete 쿼리 성능 개편 | https://url.kr/5h2iwq |
 | 3주차 | 김다애 | | | 
 | 3주차 | 김수민 | | |
-| 3주차 | 김지민| | |
+| 3주차 | 김지민| Java의 자료형 | https://www.notion.so/Java-4b2af8b448754b0d906eb49cd43d89b6 |
 | 3주차 | 김종준 | 객체지향쿼리언어 | https://writeblabla.tistory.com/79 |
 | 3주차 | 이서현 | | |
