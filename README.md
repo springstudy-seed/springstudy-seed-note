@@ -24,7 +24,7 @@ https://url.kr/neqlb4
 | 주차 | 이름 | 발표주제| 공유 Link |
 | --- | --- | -------- | -------- |
 | 1주차 | 김다애 |의존성 주입 | https://url.kr/mud2va | 
-| 1주차 | 김수민 | | |
+| 1주차 | 김수민 | 영속성 컨텍스트 |https://url.kr/i981lh |
 | 1주차 | 김지민| Annotation | https://url.kr/inqk1d |
 | 1주차 | 김종준 | 영속성 | https://writeblabla.tistory.com/75 |
 | 1주차 | 이서현 | | |
