@@ -33,7 +33,7 @@ https://url.kr/neqlb4
 | 2주차 | 김지민| Stream | https://url.kr/dnlf34 |
 | 2주차 | 김종준 | JPA 프록시와 LazyLoading | https://writeblabla.tistory.com/76 |
 | 2주차 | 이서현 | JPA Delete 쿼리 성능 개편 | https://url.kr/5h2iwq |
-| 3주차 | 김다애 | | | 
+| 3주차 | 김다애 | Static과 non-static | https://url.kr/7cknrg | 
 | 3주차 | 김수민 |JVM|https://url.kr/zyhqts|
 | 3주차 | 김지민| Java의 자료형 | https://url.kr/xsaphk |
 | 3주차 | 김종준 | 객체지향쿼리언어 | https://writeblabla.tistory.com/79 |
