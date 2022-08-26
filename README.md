@@ -26,15 +26,15 @@ https://url.kr/neqlb4
 | 1주차 | 김다애 |의존성 주입 | https://url.kr/mud2va | 
 | 1주차 | 김수민 | 영속성 컨텍스트 |https://url.kr/i981lh |
 | 1주차 | 김지민| Annotation | https://url.kr/inqk1d |
-| 1주차 | 김종준 | 영속성 | https://writeblabla.tistory.com/75 |
+| 1주차 | 김종준 | 영속성 | https://url.kr/bmdsqz |
 | 1주차 | 이서현 | | |
 | 2주차 | 김다애 | get,set 메소드| https://url.kr/canor4 | 
 | 2주차 | 김수민 | | |
 | 2주차 | 김지민| Stream | https://url.kr/dnlf34 |
-| 2주차 | 김종준 | JPA 프록시와 LazyLoading | https://writeblabla.tistory.com/76 |
+| 2주차 | 김종준 | JPA 프록시와 LazyLoading | https://url.kr/nm26lx |
 | 2주차 | 이서현 | JPA Delete 쿼리 성능 개편 | https://url.kr/5h2iwq |
 | 3주차 | 김다애 | Static과 non-static | https://url.kr/7cknrg | 
 | 3주차 | 김수민 |JVM|https://url.kr/zyhqts|
 | 3주차 | 김지민| Java의 자료형 | https://url.kr/xsaphk |
-| 3주차 | 김종준 | 객체지향쿼리언어 | https://writeblabla.tistory.com/79 |
+| 3주차 | 김종준 | 객체지향쿼리언어 | https://url.kr/fzky1p |
 | 3주차 | 이서현 | | |
