@@ -38,3 +38,8 @@ https://url.kr/neqlb4
 | 3주차 | 김지민| Java의 자료형 | https://url.kr/xsaphk |
 | 3주차 | 김종준 | 객체지향쿼리언어 | https://url.kr/fzky1p |
 | 3주차 | 이서현 | Servlet, Spring Container 차이 | https://url.kr/syu3lv |
+| 4주차 | 김다애 | | |
+| 4주차 | 김수민 | | |
+| 4주차 | 김지민 | | |
+| 4주차 | 김종준 | | |
+| 5주차 | 이서현 | 리플렉션으로 이해하는 Autowired | https://url.kr/8syxpi |
