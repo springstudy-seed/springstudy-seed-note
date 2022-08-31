@@ -42,4 +42,4 @@ https://url.kr/neqlb4
 | 4주차 | 김수민 | | |
 | 4주차 | 김지민 | | |
 | 4주차 | 김종준 | | |
-| 5주차 | 이서현 | 리플렉션으로 이해하는 Autowired | https://url.kr/8syxpi |
+| 4주차 | 이서현 | 리플렉션으로 이해하는 Autowired | https://url.kr/8syxpi |
