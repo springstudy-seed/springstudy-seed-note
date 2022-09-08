@@ -45,6 +45,6 @@ https://url.kr/neqlb4
 | 4주차 | 이서현 | 리플렉션으로 이해하는 Autowired | https://url.kr/8syxpi |
 | 5주차 | 김다애 |  | |
 | 5주차 | 김수민 | JAVA 예외처리| https://han.gl/jciwb|
-| 5주차 | 김지민 |  |  |
+| 5주차 | 김지민 |  SOLID 원칙  | https://me2.kr/kyyy6  |
 | 5주차 | 김종준 | propagation | https://writeblabla.tistory.com/80 |
 | 5주차 | 이서현 | JWT를 Stateful하게 설계 1편,2편 | https://han.gl/LTZFM |
