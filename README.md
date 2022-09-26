@@ -53,3 +53,4 @@ https://url.kr/neqlb4
 | 6주차 | 김지민 |  | |
 | 6주차 | 김종준 | API 예외처리 | https://url.kr/jgus46 |
 | 6주차 | 이서현 | Bulk Insert 로 서버 성능 개선 | https://han.gl/qmjSr |
+| 7주차 | 이서현 | Spring Security + Swagger 적용 Issue 개선 | https://url.kr/j549c8 |
