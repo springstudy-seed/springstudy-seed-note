@@ -27,7 +27,6 @@ https://url.kr/neqlb4
 | 1주차 | 김수민 | 영속성 컨텍스트 |https://url.kr/i981lh |
 | 1주차 | 김지민| Annotation | https://url.kr/inqk1d |
 | 1주차 | 김종준 | 영속성 | https://url.kr/bmdsqz |
-| 1주차 | 이서현 | | |
 | 2주차 | 김다애 | get,set 메소드| https://url.kr/canor4 | 
 | 2주차 | 김수민 | 의존성 주입 | https://han.gl/czYHa |
 | 2주차 | 김지민| Stream | https://url.kr/dnlf34 |
@@ -40,17 +39,13 @@ https://url.kr/neqlb4
 | 3주차 | 이서현 | Servlet, Spring Container 차이 | https://url.kr/syu3lv |
 | 4주차 | 김다애 | Solid1 | https://han.gl/zqXRc |
 | 4주차 | 김수민 | 영속성 전이,고아 객체 | https://han.gl/KuxHq |
-| 4주차 | 김지민 | | |
 | 4주차 | 김종준 | 트랜잭션 | https://url.kr/o95yes |
 | 4주차 | 이서현 | 리플렉션으로 이해하는 Autowired | https://url.kr/8syxpi |
-| 5주차 | 김다애 |  | |
 | 5주차 | 김수민 | JAVA 예외처리| https://han.gl/jciwb|
 | 5주차 | 김지민 |  SOLID 원칙  | https://me2.kr/kyyy6  |
 | 5주차 | 김종준 | propagation | https://url.kr/pm8str |
 | 5주차 | 이서현 | JWT를 Stateful하게 설계 1편,2편 | https://han.gl/LTZFM |
-| 6주차 | 김다애 |  | |
-| 6주차 | 김수민 |  | |
-| 6주차 | 김지민 |  | |
 | 6주차 | 김종준 | API 예외처리 | https://url.kr/jgus46 |
 | 6주차 | 이서현 | Bulk Insert 로 서버 성능 개선 | https://han.gl/qmjSr |
 | 7주차 | 이서현 | Spring Security + Swagger 적용 Issue 개선 | https://url.kr/j549c8 |
+| 9주차 | 이서현 | DBCP의 개념, HikariCP와 서버 성능 개선  | https://url.kr/5p8q3z |
